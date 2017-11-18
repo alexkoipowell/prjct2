@@ -1,4 +1,4 @@
-.background    { background: rgb(90, 80, 150);
+.background    { background-image: url("https://cdn.pixabay.com/photo/2014/03/31/23/54/the-background-302320_960_720.png");
                  table-layout: fixed;
                  border-spacing: 0;   }
 .background td { padding: 0;          }
@@ -8,7 +8,8 @@
 
 .actor  { position: absolute;  }
 .key   { background: rgb(200, 135, 70); }
-.player { background: lightblue; }
+.player { background-image: url("https://www.lovepotatoes.co.uk/favicon.ico");
+         }
 
 .boost { background: rgb(240, 100, 110); }
 
